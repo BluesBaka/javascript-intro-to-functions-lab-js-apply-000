@@ -1,6 +1,6 @@
 
-var uppercase = string.toUpperCase
-var lowercase = string.toLowerCase
+//var uppercase = string.toUpperCase
+//var lowercase = string.toLowerCase
 
 
 
